@@ -35,7 +35,9 @@
 >
 > 서비스 이용자를 확인해보니 대략 20명정도이고, 가볍게 만들어도 괜찮을 것 같았다.
 
-![1_lNX4JPcG9ZBzWcG9qLVPBQ](https://user-images.githubusercontent.com/55838461/76683362-e42b2c80-6646-11ea-9c3c-af10a6407b5a.png){: .center}
+![1_I_DtmwRwybo8COH-aqffAQ](https://user-images.githubusercontent.com/55838461/76685019-d62fd880-6653-11ea-8687-e6d709b67dc9.png)
+
+
 
 ### Vue.js + Firebase
 
@@ -91,7 +93,7 @@ findLocateUser(row) {
     }
 ~~~
 
-![스크린샷 2020-03-14 오후 11 42 05](https://user-images.githubusercontent.com/55838461/76684232-71717f80-664d-11ea-9d27-7ae1d69437b9.png){: .center}
+![스크린샷 2020-03-14 오후 11 42 05](https://user-images.githubusercontent.com/55838461/76684232-71717f80-664d-11ea-9d27-7ae1d69437b9.png)
 
 
 
@@ -148,13 +150,13 @@ findLocateUser(row) {
 
 ### 모바일 웹 (학생용)
 
-![2020-03-15 00 08 50](https://user-images.githubusercontent.com/55838461/76684693-6a4c7080-6651-11ea-99c0-46c3ad43f6fc.gif){: .center}
+![2020-03-15 00 08 50](https://user-images.githubusercontent.com/55838461/76684693-6a4c7080-6651-11ea-99c0-46c3ad43f6fc.gif)
 
-![2020-03-15 00 09 17](https://user-images.githubusercontent.com/55838461/76684694-6b7d9d80-6651-11ea-8c05-e02444d0663d.gif){: .center}
+![2020-03-15 00 09 17](https://user-images.githubusercontent.com/55838461/76684694-6b7d9d80-6651-11ea-8c05-e02444d0663d.gif)
 
 ### 관리자 페이지 (로그인과정생략)
 
-![2020-03-15 00 10 12](https://user-images.githubusercontent.com/55838461/76684696-6d476100-6651-11ea-8f66-35fe038392db.gif){: .center}
+![2020-03-15 00 10 12](https://user-images.githubusercontent.com/55838461/76684696-6d476100-6651-11ea-8f66-35fe038392db.gif)
 
 > 학생들의 이름을 클릭하면 위치조회가 가능하다.
 
